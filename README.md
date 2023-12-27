@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GbullAI
-  Learning scripting from scratch challenges. Instead of {Hello World!} --Prepare World.
+  Learning scripting from scratch Day 1 challenges. Instead of {Hello World!} --Prepare World.
 
 <!---
 GbullAI/GbullAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
